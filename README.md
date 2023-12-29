@@ -2,8 +2,14 @@
 
 <h3 align="center"> </h3>
 Hello This is Sravanthi Murukonda from SRM University AP
+
+
 Hey!! I'm an enthusiastic Data Engineer who thrives on discovering and mastering new information and skills.
+
+
 I'm graduating in 2025 and as of now I'm interested in learning skills related to Big Data.I believe my expertise and background would significantly benefit any team. I'm seeking a role where I can apply my abilities and insights to create a meaningful impact on the world.
+
+
 I have expertise in Python,SQL.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanthimurukonda&label=Profile%20views&color=0e75b6&style=flat" alt="sravanthimurukonda" /> </p>
