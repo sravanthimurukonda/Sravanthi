@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm SRAVANTHI MURUKONDA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm SRAVANTHI MURUKONDA from SRM University AP</h1>
+<h3 align="center">I'm an enthusiastic Data Engineer who thrives on discovering and mastering new information and skills.
+I'm graduating in 2025 and as of now I'm interested in learning skills related to Big Data.I believe my expertise and background would significantly benefit any team. I'm seeking a role where I can apply my abilities and insights to create a meaningful impact on the world.
+I have expertise in Python,SQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanthimurukonda&label=Profile%20views&color=0e75b6&style=flat" alt="sravanthimurukonda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sravanthii__" target="blank"><img src="https://img.shields.io/twitter/follow/sravanthii__?logo=twitter&style=for-the-badge" alt="sravanthii__" /></a> </p>
 
-- 🌱 I’m currently learning **C++,Python**
+- 🌱 I’m currently learning **Big Data **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
