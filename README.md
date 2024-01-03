@@ -3,15 +3,19 @@
 <h3 align="center"> </h3>
 
 Hey!! I'm an enthusiastic Data Engineer who thrives on discovering and mastering new information and skills.
-
 Here's a little about me:
 
+- 🔭 I’m currently learning Big Data.
+- 🌱 Always learning and exploring new techniques.
+- 👯‍♂️ Looking to collaborate on data analysis.
+- 💬 Ask me about Python,SQL,Java.
+- 📫 You can reach me at sravanthimurukonda1@gmail.com
+- 😄 Pronouns: She/Her
+Let's connect and innovate together!🚀📊📱🌍
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanthimurukonda&label=Profile%20views&color=0e75b6&style=flat" alt="sravanthimurukonda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sravanthii__" target="blank"><img src="https://img.shields.io/twitter/follow/sravanthii__?logo=twitter&style=for-the-badge" alt="sravanthii__" /></a> </p>
-
-- 🌱 I’m currently learning **Big Data **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
